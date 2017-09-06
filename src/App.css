@@ -22,3 +22,8 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.App-movie-container {
+    width: 100%;
+    background-color: red;
+}
